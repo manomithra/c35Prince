@@ -1,2 +1,1 @@
-# c35Prince
-c35 game
+# Tablet-SPCK-PRO-C35-Teacher-Activity
